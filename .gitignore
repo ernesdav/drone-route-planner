@@ -1,0 +1,17 @@
+# Archivos de compilación
+*.o
+*.out
+*.exe
+*.a
+*.so
+
+# Directorio de build (buena práctica para el futuro)
+build/
+bin/
+
+# Configuraciones del editor
+.vscode/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
