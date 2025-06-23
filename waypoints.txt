@@ -1,0 +1,7 @@
+101,34.0522,-118.2437,Downtown LA
+102,37.7749,-122.4194,San Francisco
+103,40.7128,-74.0060,New York City
+104,41.8781,-87.6298,Chicago
+a_bad_id,39.9526,-75.1652,Philadelphia
+106,32.7157,-117.1611,San Diego
+107,47.6062,-122.3321,Seattle
