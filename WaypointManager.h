@@ -6,6 +6,8 @@
 #include <unordered_map>
 
 class WaypointManager {
+    friend class RoutePlannerTest_CalculatesDistanceCorrectly_Test;
+    friend class RoutePlannerTest_HandlesNonExistentWaypoint_Test;
 private:
     std::vector<Waypoint> allWaypoints;
     std::unordered_map<int, size_t> waypointIdToIndex;
